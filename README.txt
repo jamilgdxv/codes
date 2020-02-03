@@ -12,3 +12,8 @@ NODE SEARCH - Docsis SNMP GET
 
 1. Consultation for SNMP-based documents
 2. Pure shell script
+
+UPDATE DESC - WITH SNMP
+
+1. Collecting SNMP information
+2. Inclusion of data with SQL
