@@ -17,11 +17,14 @@ COMUM="nononono";
 
 HORA=`date +'%T'`;
 TIME=`date +'%s'`;
+
+# senha de acesso ao SSH do equipamento
 pass="YOURPASS";
 
 
 # VARIAVEIS LOG
 
+# Necessario criar o diretorio a ser utilizado para armazenas os Logs
 lista="/dados/lista.$TIME.txt";
 
 # LISTA CMTS
