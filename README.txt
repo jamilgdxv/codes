@@ -26,3 +26,8 @@ MONITOR OLT - SHELL TOOL
 
 1.Collecting OLT information
 2.Inserting information for display in the database
+
+MON GEN - SHELL ICMP ECHO
+
+1. Generic script
+2. Sending and measuring ICMP packages
