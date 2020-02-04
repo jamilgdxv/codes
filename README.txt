@@ -20,3 +20,9 @@ BACKUP SYSLOG - BACKUP DIR
 
 1. Handling process.
 2. Backup system
+
+
+MONITOR OLT - SHELL TOOL
+
+1.Collecting OLT information
+2.Inserting information for display in the database
