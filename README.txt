@@ -15,3 +15,8 @@ UPDATE DESC - WITH SNMP
 
 1. Collecting SNMP information
 2. Inclusion of data with SQL
+
+BACKUP SYSLOG - BACKUP DIR
+
+1. Handling process.
+2. Backup system
