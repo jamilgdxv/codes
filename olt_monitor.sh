@@ -23,7 +23,7 @@ pass="Drkcux9c01#";
 SQL_H="127.0.0.1";
 SQL_U="user";
 SQL_P="user";
-SQL_DB="db_olts";
+SQL_DB="<UR BASE>";
 TB_OLT="tb_summ_ont";
 
 
