@@ -31,3 +31,10 @@ MON GEN - SHELL ICMP ECHO
 
 1. Generic script
 2. Sending and measuring ICMP packages
+
+
+SNMP COLLECTION AND SQL DATA INSERTION
+
+1. Collecting SNMP information
+2. Inclusion of data with SQL
+
