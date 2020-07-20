@@ -17,7 +17,7 @@ OID_OLT_NOME="sysName.0";
 COM="<COM>";
 HORA=`date +'%T'`;
 
-pass="Drkcux9c01#";
+pass="putyourpass";
 
 # VARIAVEIS SQL
 SQL_H="127.0.0.1";
