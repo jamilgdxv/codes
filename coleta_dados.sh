@@ -1,14 +1,20 @@
 #!/bin/bash
 
-####################################################
-# script.sh - Script modelo                        #
-#                                                  #
-# Script GPL - Desenvolvido por Jamil W.           #
-# Favor manter os direitos e adicionar alterações  #
-# xx/xx/2020                                       #
-# usage: ./script.sh <exemplo>                     #
-#                                                  #
-####################################################
+#######################################################################
+# coleta_dados - Cable docsis data collection                         #
+#                                                                     #
+# Script GPL - Desenvolvido por Jamil W.                              #
+# Favor manter os direitos e adicionar alterações                     #
+# xx/xx/2020                                                          #
+# usage: ./coleta_dados.sh xxxx.xxxx.xxxx CITY1 <exemplo>             #
+#                                                                     #
+# 1. Upstream info (quantity and frequencies)                         #
+# 2. Downstream info (quantity and frequencies)                       #
+# 3. Up and down bounding                                             #
+# 4. SNR, RX, TX infos                                                #
+# 5. CPE IP, CABLE IP INFO, VENDOR, MODEL, VERSION                    #
+#                                                                     #
+#######################################################################
 
 ### DEfinições do sistema
 
