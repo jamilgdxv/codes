@@ -1,0 +1,11 @@
+# ip;model;hostname;snmppass;cidade
+# CTB #
+10.1.1.2;Arris E6000;GGGCMT01;public;CITY1
+10.1.1.6;Casa BDM;RRRCMT06;public;CITY1
+10.1.1.34;Cisco CBR8;PPPCMT09;public;CITY1
+10.1.1.19;Arris E6000;DDDCMT04;public;CITY1
+10.1.1.20;Casa C100G;BBBCMT05;public;CITY1
+10.1.1.9;Casa BDM;AAACMT06;public2;CITY1
+# CONURBADAS #
+10.2.3.5;Casa BDM;XXXCCMT02;public;CITY2
+10.2.3.7;Casa C100G;YYYCMT01;public;CITY2
