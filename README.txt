@@ -38,3 +38,8 @@ SNMP COLLECTION AND SQL DATA INSERTION
 1. Collecting SNMP information
 2. Inclusion of data with SQL
 
+
+COLETA DADOS - DOCSIS SHELL
+
+1. Cable docsis data collection 
+2. CPE IP, DOWNSTREAM, UPSTREAM, SNR, TX and RX infos
