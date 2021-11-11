@@ -44,5 +44,3 @@ COLETA DADOS - DOCSIS SHELL
 1. Cable docsis data collection 
 2. CPE IP, DOWNSTREAM, UPSTREAM, SNR, TX and RX infos
 
-<code><br><br><br></code>
-<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
