@@ -44,3 +44,10 @@ COLETA DADOS - DOCSIS SHELL
 1. Cable docsis data collection 
 2. CPE IP, DOWNSTREAM, UPSTREAM, SNR, TX and RX infos
 
+NOVO SISTEMA DE MONITORACAO OLT
+CADASTRO AUTOMATICO BASEADO NA REDE DOS EQUIPAMENTOS
+
+1. Collecting SNMP data and monitoring systems
+2. Databases with some information to PHP painel
+
+
