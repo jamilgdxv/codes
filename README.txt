@@ -50,4 +50,5 @@ CADASTRO AUTOMATICO BASEADO NA REDE DOS EQUIPAMENTOS
 1. Collecting SNMP data and monitoring systems
 2. Databases with some information to PHP painel
 3. SFP monitor with alarms sending info to Telegram Chat
+4. Summ of ONU on port
 
